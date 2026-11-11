@@ -6,9 +6,13 @@ orchestrés avec **Docker Compose**.
 
 Données d'exemple fournies : « Capitales d'Afrique » et « Bases de Python ».
 
-> Les captures d'écran sont à ajouter dans `docs/images/` (voir
-> [`docs/images/README.md`](docs/images/README.md)). Exemples attendus :
-> page d'accueil, quiz en cours, score final.
+## Aperçu
+
+![Page d'accueil](docs/images/accueil.png)
+
+![Quiz en cours](docs/images/quiz.png)
+
+![Score final](docs/images/score.png)
 
 ---
 
