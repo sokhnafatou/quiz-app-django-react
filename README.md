@@ -12,6 +12,8 @@ Données d'exemple fournies : « Capitales d'Afrique » et « Bases de Python »
 
 ![Quiz en cours](docs/images/quiz.PNG)
 
+![Quiz en cours](docs/images/quiz1.PNG)
+
 ![Score final](docs/images/score.PNG)
 
 ---
