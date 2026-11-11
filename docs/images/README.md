@@ -4,7 +4,7 @@ Placez ici les captures d'écran de l'application :
 
 - `home.png` — page d'accueil
 - `quiz.png` — quiz en cours (une question avec ses choix)
-- `result.png` — score final
+- `score.png` — score final
 
 Pour les générer :
 
