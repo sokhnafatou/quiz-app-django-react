@@ -8,11 +8,11 @@ Données d'exemple fournies : « Capitales d'Afrique » et « Bases de Python »
 
 ## Aperçu
 
-![Page d'accueil](docs/images/accueil.png)
+![Page d'accueil](docs/images/home.PNG)
 
-![Quiz en cours](docs/images/quiz.png)
+![Quiz en cours](docs/images/quiz.PNG)
 
-![Score final](docs/images/score.png)
+![Score final](docs/images/score.PNG)
 
 ---
 
